@@ -1,7 +1,7 @@
 <!-- 🚀 Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=00D9FF&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aakash+Raj!;Full+Stack+Developer+%26+Problem+Solver;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Delius&weight=400&size=31&duration=2300&pause=100&color=1E4B4F&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aakash+Raj!;Full+Stack+Developer+%26+Problem+Solver;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -30,7 +30,13 @@
 <!-- 📊 GitHub Stats -->
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash-sriv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aakash-sriv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    referrerpolicy="no-referrer"
+  />
+</p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash-sriv&theme=tokyonight&hide_border=true)
 
 </div>
@@ -71,7 +77,7 @@
 
 <br/>
 
-<!-- 🎯 Featured Projects -->
+<!-- 🎯 Featured Projects 
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -82,7 +88,7 @@
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=aakash-sriv&repo=my-folio&theme=tokyonight&hide_border=true)](https://github.com/aakash-sriv/my-folio)
 
 </div>
-
+-->
 <br/>
 
 <!-- 🎮 BRICK BREAKER CONTRIBUTION GRAPH -->
@@ -96,28 +102,32 @@
 
 <br/>
 
-<!-- 📈 Activity Graph -->
+<!-- 📈 Activity Graph 
 ## 📊 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakash-sriv&theme=tokyo-night&hide_border=true&area=true)
-
+-->
 <br/>
 
 <!-- 🏆 GitHub Trophies -->
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aakash-sriv&theme=tokyonight&no-frame=true&row=1&column=7)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aakash-sriv&theme=tokyonight&no-frame=true&row=1&column=7"
+    referrerpolicy="no-referrer"
+  />
+</p>
 
-</div>
 
 <br/>
 
 <!-- 📌 Most Used Languages -->
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-sriv&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-sriv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    referrerpolicy="no-referrer"
+  />
+</p>
 
-</div>
 
 <br/>
 
@@ -132,13 +142,13 @@
 
 <br/>
 
-<!-- 💭 Random Dev Quote -->
+<!-- 💭 Random Dev Quote 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
+-->
 <br/>
 
 ---
@@ -150,6 +160,6 @@
 
 📧 Reach me at: **aakashsriv06@gmail.com**
 
-⭐️ From [aakash-sriv](https://github.com/aakash-sriv) with 💙
+⭐️ From [aakash-sriv](https://github.com/aakash-sriv) with 💝
 
 </div>
